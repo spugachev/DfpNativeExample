@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_38daff9bd4828e32a8bbdedae1ae853ec81ff6a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_dbaaba5a40e438c0f64d4ca86e5aec09f44c4e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_5646c133480a9d4d1299ba178a70aac956dde945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ccb67b2ebaf8f815bd57d4fb54ddbe638b22a92">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d773cceb4db6925c435b1ae1156d9d286f5bfd73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.1.0_65ec1422a163747acc0b3ead62f61005d99b60b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f5e502a0a1d29d9dfbc954af668a03481fa21c7">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c61c2bdd6c5b8e3dfdd44a05acf504dd5c03e67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_647fd1aab69fb408e4487aa061b5c16147c58dac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_d077059be76e6876ab648cf332ec815442c85e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/spugachev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_6236550dcbb3ff07f9b6e523b3b9617a1f52bc18/classes.dex" />
+    </item>
+
+</items>

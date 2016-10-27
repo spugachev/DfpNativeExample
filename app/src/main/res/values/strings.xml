@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Native Example</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fluid_fragment_title">Title</string>
+    <string name="fluid_adunitid">/125837474/auto_ru_native</string>
+    <string name="fluid_above">(this TextView is above the ad)</string>
+    <string name="fluid_below">(this TextView is below the ad)</string>
+
+</resources>

@@ -1,0 +1,7 @@
+#Thu Oct 27 16:54:49 MSK 2016
+base.0=/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c61c2bdd6c5b8e3dfdd44a05acf504dd5c03e67
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d773cceb4db6925c435b1ae1156d9d286f5bfd73/classes.dex
+base.1=/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d773cceb4db6925c435b1ae1156d9d286f5bfd73
+file.0=/Users/spugachev/Desktop/BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c61c2bdd6c5b8e3dfdd44a05acf504dd5c03e67/classes.dex
